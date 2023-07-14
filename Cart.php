@@ -5,7 +5,7 @@ include_once './Components/Header.php';
 ?>
 
 <section class="container content-section">
-            <h2 class="section-header">CART</h2>
+            <h3 class="section-header">CART</h3>
             <div class="cart-row">
                 <span class="cart-item cart-header cart-column">PRODUCTS</span>
                 <span class="cart-price cart-header cart-column">PRICE</span>
